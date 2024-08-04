@@ -11,5 +11,5 @@ export default defineConfig({
   },
   site: 'https://gyuminpk.github.io',
   base: 'Personal-Website',
-  integrations: [assets()]
+  integrations: [astroAssets()]
 });
