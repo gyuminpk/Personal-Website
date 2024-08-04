@@ -2,7 +2,7 @@
 title: "APR2022 - Greece - Türkiye Travel"
 description: "Solo Trip to Greece and Türkiye for 2 weeks"
 pubDate: "01 APR 2022"
-heroImage: "/Mikonos.jpeg"
+heroImage: "/Personal-Website/Mikonos.jpeg"
 tags: ["Travel", "Greece", "Türkiye"]
 ---
 

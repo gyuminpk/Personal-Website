@@ -2,7 +2,7 @@
 title: "MAY2022 - Mongolia Journey"
 description: "7 days of Mongolia journey with Chang-gyun"
 pubDate: "31 MAY 2022"
-heroImage: "/Mongolia.jpeg"
+heroImage: "/Personal-Website/Mongolia.jpeg"
 tags: ["Travel", "Mongolia"]
 ---
 
