@@ -1,15 +1,13 @@
-import { defineConfig } from 'astro/config';
-import astroAssets from '@astrojs/assets';
-import mdx from '@astrojs/mdx';
-import sitemap from '@astrojs/sitemap';
+import { defineConfig } from 'astro/config'
 import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  experimental: {
-    viewTransitions: true
-  },
+  integrations: [tailwind()],
   site: 'https://gyuminpk.github.io',
   base: 'Personal-Website',
-  integrations: [astroAssets()]
+  experimental: { 
+    assets: true,
+    viewTransitions: true
+  },
 });
