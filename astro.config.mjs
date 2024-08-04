@@ -6,8 +6,8 @@ export default defineConfig({
   integrations: [tailwind()],
   site: 'https://gyuminpk.github.io',
   base: 'Personal-Website',
-  experimental: { 
-    assets: true,
-    viewTransitions: true
-  },
+  // experimental: { 
+  //   assets: true,
+  //   viewTransitions: true
+  // },
 });
