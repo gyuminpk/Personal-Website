@@ -9,5 +9,6 @@ export default defineConfig({
     viewTransitions: true
   },
   site: 'https://gyuminpk.github.io',
-  base: 'Personal-Website'
+  base: 'Personal-Website',
+  integrations: [assets()]
 });
