@@ -11,7 +11,7 @@ const blogSchema = z.object({
     }).optional(),
 });
 
-const experiencesSchema = z.object({
+const experienceSchema = z.object({
     title: z.string(),
     description: z.string(),
     pubDate: z.coerce.date(),
@@ -37,15 +37,15 @@ const storeSchema = z.object({
 });
 
 export type BlogSchema = z.infer<typeof blogSchema>;
-export type ExperiencesSchema = z.infer<typeof experiencesSchema>;
+export type ExperienceSchema = z.infer<typeof experienceSchema>;
 export type StoreSchema = z.infer<typeof storeSchema>;
 
 const blogCollection = defineCollection({ schema: blogSchema });
-const experiencesCollection = defineCollection({ schema: experiencesSchema });
+const experienceCollection = defineCollection({ schema: experienceSchema });
 const storeCollection = defineCollection({ schema: storeSchema });
 
 export const collections = {
     'blog': blogCollection,
-    'experiences': experiencesCollection,
+    'experiences': experienceCollection,
     'store': storeCollection
 }
