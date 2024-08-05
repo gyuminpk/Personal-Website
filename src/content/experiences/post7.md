@@ -4,7 +4,7 @@ description: "Neural Computation Lab, Department of Brain and Cognitive Science,
 pubDate: "01 AUG 2024"
 heroImage: "/Personal-Website/NCL.png"
 badge: "Present"
-tags: ["NeuroScience", "Work", "Research"]
+tags: ["Neuroscience", "Work", "Research"]
 ---
 
 ### Research Experience
