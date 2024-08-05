@@ -7,4 +7,4 @@ badge: "Recent Post"
 tags: ["Travel", "Paris"]
 ---
 
-In Paris, we celebrated the New Year with fireworks at the Arc de Triomphe and visited Versailles, among many other activities that are too numerous to briefly summarize. Unfortunately, we were having so much fun that I didn't keep a detailed record of our adventures. If the opportunity arises, I will upload detailed accounts of our experiences with Seoyoung in the future.
+In Paris, we celebrated the New Year with fireworks at the Arc de Triomphe and visited Versailles, among many other activities that are too numerous to briefly summarize. Unfortunately, we were having so much fun that I didn't keep a detailed record of our adventures. If the opportunity arises, I will upload detailed accounts of our experiences with Suyoung in the future.

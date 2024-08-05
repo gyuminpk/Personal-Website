@@ -11,6 +11,18 @@ const blogSchema = z.object({
     }).optional(),
 });
 
+const experiencesSchema = z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    updatedDate: z.string().optional(),
+    heroImage: z.string().optional(),
+    badge: z.string().optional(),
+    tags: z.array(z.string()).refine(items => new Set(items).size === items.length, {
+        message: 'tags must be unique',
+    }).optional(),
+});
+
 const storeSchema = z.object({
     title: z.string(),
     description: z.string(),
@@ -25,12 +37,15 @@ const storeSchema = z.object({
 });
 
 export type BlogSchema = z.infer<typeof blogSchema>;
+export type ExperiencesSchema = z.infer<typeof experiencesSchema>;
 export type StoreSchema = z.infer<typeof storeSchema>;
 
 const blogCollection = defineCollection({ schema: blogSchema });
+const experiencesCollection = defineCollection({ schema: experiencesSchema });
 const storeCollection = defineCollection({ schema: storeSchema });
 
 export const collections = {
     'blog': blogCollection,
+    'experiences': experiencesCollection,
     'store': storeCollection
 }
