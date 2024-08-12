@@ -1,7 +1,7 @@
 ---
 title: "2021 - Undergraduate Research Internship"
 description: "V1 neuron Ca2+ imaging dependence on visual grating stimulus through Miniscope V4"
-pubDate: "20 FEB 2021"
+pubDate: "Feb 20 2021"
 heroImage: "/Personal-Website/SNU_intern_head.png"
 tags: ["Neuroscience", "Research"]
 ---

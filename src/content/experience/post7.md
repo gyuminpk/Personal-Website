@@ -1,7 +1,7 @@
 ---
 title: "2024 ~ Present - Research Assistant at Gradschool Lab"
 description: "Neural Computation Lab, Department of Brain and Cognitive Science, Seoul National University, Seoul, South Korea"
-pubDate: "01 AUG 2024"
+pubDate: "Aug 01 2024"
 heroImage: "/Personal-Website/NCL.png"
 badge: "Present"
 tags: ["Neuroscience", "Work", "Research"]

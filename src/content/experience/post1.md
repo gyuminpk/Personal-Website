@@ -1,7 +1,7 @@
 ---
 title: "2015 - Highschool Graduation Thesis"
 description: "Study for Neuron Morphological Plasticity in Cerebral Motor Cortex During Environmental Enrichment"
-pubDate: "01 JUL 2015"
+pubDate: "Jul 01 2015"
 heroImage: "/Personal-Website/Highschool.png"
 tags: ["Neuroscience", "Research"]
 ---

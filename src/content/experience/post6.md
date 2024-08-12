@@ -1,7 +1,7 @@
 ---
 title: "2022 ~ 2024 - Process Engineer"
 description: "Corporate Engineering Team, Samsung Biologics, Incheon, South Korea"
-pubDate: "01 APR 2024"
+pubDate: "Apr 01 2024"
 heroImage: "/Personal-Website/SBL.jpeg"
 tags: ["Engineering", "Work"]
 ---

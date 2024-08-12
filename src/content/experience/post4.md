@@ -1,7 +1,7 @@
 ---
 title: "2018 ~ 2019 - Military Service"
 description: "CBR Support Battalion, 27th Infantry Division"
-pubDate: "10 NOV 2019"
+pubDate: "Nov 10 2019"
 heroImage: "/Personal-Website/military.jpg"
 tags: ["Military Service", "Work"]
 ---

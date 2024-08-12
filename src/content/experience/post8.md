@@ -1,7 +1,7 @@
 ---
 title: "2022 - Bachelor of Engineering Thesis"
 description: "Effects of Photobiomodulation on Antimycin A treated Human Dental Pulp Stem Cells"
-pubDate: "01 AUG 2022"
+pubDate: "Aug 01 2022"
 heroImage: "/Personal-Website/BSE.png"
 tags: ["Engineering", "Research"]
 ---

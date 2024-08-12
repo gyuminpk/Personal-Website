@@ -1,7 +1,7 @@
 ---
 title: "2020 - Startup experience"
 description: "Research Assistant at YishanLinks, Seoul, South Korea"
-pubDate: "01 JUN 2020"
+pubDate: "Jun 01 2020"
 heroImage: "/Personal-Website/yishanlinks.png"
 tags: ["Startup", "Work"]
 ---

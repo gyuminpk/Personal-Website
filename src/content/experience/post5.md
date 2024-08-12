@@ -1,7 +1,7 @@
 ---
 title: "2020 - Startup Project Co-founder"
 description: "PPAP(Pre-Purchased Agricultural Platform), Seoul, South Korea"
-pubDate: "11 AUG 2020"
+pubDate: "Aug 11 2020"
 heroImage: "/Personal-Website/PPAP.png"
 tags: ["Startup", "Work"]
 ---

@@ -4,7 +4,7 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 import { getCollection } from "astro:content";
 import createSlug from "../lib/createSlug"
 
-const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const posts = (await getCollection("experience")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const last_posts = posts.slice(0, 3);
 ---
@@ -35,13 +35,13 @@ const last_posts = posts.slice(0, 3);
     badge="NEW"
   />
   <div class="divider my-0"></div>
-  <!-- <HorizontalCard
-    title="Demo Project 2"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
+  <HorizontalCard
+    title="Automatic Mask Cabinet"
+    img="/Personal-Website/mask_cabinet.png"
+    desc="A mask storage box that can provide an appropriate mask to the user by identifying the concentration of fine dust outdoors"
+    url="https://docs.google.com/presentation/d/1jtY3gWsEZoDKXoKPQR75q8JaWJUfdtNb/edit?usp=sharing&ouid=103657195388536610172&rtpof=true&sd=true"
   />
-  <div class="divider my-0"></div>
+  <!-- <div class="divider my-0"></div>
   <HorizontalCard
     title="Demo Project 3"
     img="/post_img.webp"
@@ -51,7 +51,7 @@ const last_posts = posts.slice(0, 3);
   /> -->
 
   <div>
-    <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from blog</div>
+    <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from experience</div>
   </div>
 
   {
@@ -61,7 +61,7 @@ const last_posts = posts.slice(0, 3);
           title={post.data.title}
           img={post.data.heroImage}
           desc={post.data.description}
-          url={"Personal-Website/blog/" + createSlug(post.data.title, post.slug)}
+          url={"Personal-Website/experience/" + createSlug(post.data.title, post.slug)}
           target="_self"
           badge={post.data.badge}
         />
