@@ -1,6 +1,6 @@
 ---
 title: "JAN2023 - Paris Trip"
-description: "A Week in Paris with Suyoung - Too Short but Unforgettable"
+description: "A Week in Paris with my fiancée, Suyoung - Too Short but Unforgettable"
 pubDate: "07 Jan 2023"
 heroImage: "/Personal-Website/Paris.jpeg"
 badge: "Recent Post"
