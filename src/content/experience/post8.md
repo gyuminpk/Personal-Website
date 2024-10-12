@@ -56,7 +56,7 @@ This research experience provided me with valuable insights into the application
 You can check the original version of my thesis via below button(Korean).
 
 <div id="iframe-container" style="display: none;">
-  <iframe src="https://drive.google.com/file/d/1KHVAjhnP5G0btuHp1ojmJWUK49ymbE0s/view?usp=sharing/preview" width="900" height="507"></iframe>
+  <iframe src="https://drive.google.com/file/d/1KHVAjhnP5G0btuHp1ojmJWUK49ymbE0s/view?usp=sharing" width="900" height="507"></iframe>
 </div>
 <button class="custom-button" onclick="document.getElementById('iframe-container').style.display='block'; this.style.display='none';">
   Click to Show Original Theis
