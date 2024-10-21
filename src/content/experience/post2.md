@@ -1,62 +1,33 @@
 ---
-title: "2021 - Undergraduate Research Internship"
-description: "V1 neuron Ca2+ imaging dependence on visual grating stimulus through Miniscope V4"
-pubDate: "Feb 20 2021"
-heroImage: "/Personal-Website/SNU_intern_head.png"
-tags: ["Neuroscience", "Research"]
+title: "2018 ~ 2019 - Military Service"
+description: "CBR Support Battalion, 27th Infantry Division"
+pubDate: "Nov 10 2019"
+heroImage: "/Personal-Website/military.jpg"
+tags: ["Military Service", "Work"]
 ---
 
-<style>
-  .custom-button {
-    background-color: #4CAF50; /* Green background */
-    border: none; /* Remove borders */
-    color: white; /* White text */
-    padding: 15px 32px; /* Some padding */
-    text-align: center; /* Centered text */
-    text-decoration: none; /* Remove underline */
-    display: inline-block; /* Get the element to line up */
-    font-size: 16px; /* Increase font size */
-    margin: 4px 2px; /* Some margin */
-    cursor: pointer; /* Pointer/hand icon */
-    border-radius: 12px; /* Rounded corners */
-  }
+### Military Service
 
-  .custom-button:hover {
-    background-color: #45a049; /* Darker green */
-  }
+**27th Division, CBR Support Battalion, South Korea, Mar 2018 - Nov 2019**  
+**Role: Decontamination Specialist**
 
-  #iframe-container {
-    display: none;
-    margin-top: 20px;
-  }
-</style>
-### Research Internship Experience
-
-**Neurophysiology Lab, Seoul National University, Winter 2020**  
-**Supervisor: Professor Sang-Jeong Kim**
-
-During my undergraduate internship at Professor Sang-Jeong Kim's Neurophysiology Lab at Seoul National University, I engaged in advanced neurophysiological research using the UCLA Miniscope V4 for single-photon imaging. This experience provided me with hands-on expertise in cutting-edge imaging technology and its application in neuroscience research.
+During my military service in the 27th Division, CBR (Chemical, Biological, Radiological) Support Battalion, I served as a Decontamination Specialist for 1 year and 10 months. In this role, I performed various duties including squad leader and duty non-commissioned officer (NCO), and I was recognized as an Exemplary Soldier after passing the physical fitness test.
 
 **Key Responsibilities:**
 
-- **Single-Photon Imaging:** Utilized the UCLA Miniscope to conduct single-photon imaging, allowing for high-resolution observation of neuronal activity in live animal models.
-- **Visual Stimulus Analysis:** Investigated how neuronal activity changes in response to various visual stimuli, contributing to a better understanding of visual processing in the brain.
-- **Data Collection and Analysis:** Collected and analyzed large datasets of neuronal activity, employing statistical methods to interpret the results and draw meaningful conclusions.
-- **Collaborative Research:** Worked closely with graduate students and researchers, contributing to ongoing projects and participating in lab meetings to discuss findings and refine experimental approaches.
+- **Decontamination Operations:** Conducted decontamination procedures to ensure safety and preparedness against chemical, biological, and radiological threats.
+- **Leadership Roles:** Served as squad leader and duty NCO, leading a team of soldiers and managing daily operations and responsibilities.
+- **Training and Preparedness:** Conducted training sessions to maintain high levels of readiness and proficiency in CBR operations.
+- **Physical Fitness:** Maintained excellent physical condition, passing the physical fitness test and being designated as an Exemplary Soldier (특급 전사).
+- **Emergency Response:** Participated in emergency response drills and exercises to enhance the unit’s capability to respond to CBR incidents.
 
 **Skills Gained:**
 
-- **Technical Proficiency:** Gained practical experience in handling and operating advanced imaging equipment and software.
-- **Data Analysis:** Enhanced my ability to analyze complex biological data and present findings clearly and concisely.
-- **Scientific Communication:** Improved my skills in scientific writing and presentation through regular updates and discussions of my research progress.
+- **Leadership:** Developed strong leadership skills through managing a squad and taking on NCO duties, including decision-making and team coordination.
+- **Technical Proficiency:** Gained in-depth knowledge and practical experience in decontamination procedures and CBR defense operations.
+- **Physical Fitness:** Achieved and maintained peak physical fitness, exemplified by being awarded the title of Exemplary Soldier.
+- **Crisis Management:** Enhanced ability to perform under pressure during emergency drills and actual decontamination operations.
+- **Teamwork:** Fostered strong teamwork and communication skills by working closely with fellow soldiers to achieve common goals.
 
-This internship not only deepened my understanding of neurophysiology but also solidified my interest in pursuing further research in neuroscience. The experience of observing real-time neuronal activity in response to stimuli was both fascinating and enlightening, reinforcing my commitment to contributing to this dynamic field.
+This experience not only honed my technical and leadership abilities but also reinforced the importance of discipline, teamwork, and preparedness in high-stress situations. The skills and lessons learned during my military service continue to influence my approach to challenges and responsibilities in all areas of my life.
 
-You can check the original version of my thesis via below button(Korean / English).
-
-<div id="iframe-container" style="display: none;">
-  <iframe src="https://drive.google.com/file/d/1UCc7pnYFsiJ2Z3lqU5OGKsoUBKD1MHUb/preview" width="900" height="507"></iframe>
-</div>
-<button class="custom-button" onclick="document.getElementById('iframe-container').style.display='block'; this.style.display='none';">
-  Click to Show Original Theis
-</button>

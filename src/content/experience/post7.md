@@ -1,35 +1,31 @@
 ---
-title: "2024 ~ Present - Research Assistant at Gradschool Lab"
-description: "Neural Computation Lab, Department of Brain and Cognitive Science, Seoul National University, Seoul, South Korea"
-pubDate: "Aug 01 2024"
-heroImage: "/Personal-Website/NCL.png"
-badge: "Present"
-tags: ["Neuroscience", "Work", "Research"]
+title: "2022 ~ 2024 - Process Engineer"
+description: "Corporate Engineering Team, Samsung Biologics, Incheon, South Korea"
+pubDate: "Apr 01 2024"
+heroImage: "/Personal-Website/SBL.jpeg"
+tags: ["Engineering", "Work"]
 ---
 
-### Research Experience
+### Professional Experience
 
-**Seoul National University, Department of Brain & Cognitive Sciences, Neural Computation Lab, Research Assistant**  
-**Apr 2024 - Present**
+**Samsung Biologics, Process Engineer, Corporate Engineering Team**  
+**Aug 2022 - Mar 2024**
 
-As a Research Assistant in the Neural Computation Lab at Seoul National University, I conduct advanced research on mice neurons using cutting-edge imaging and computational techniques.
+As a Process Engineer at Samsung Biologics, I was responsible for modifying process piping and equipment, establishing the design basis for biopharmaceutical processes, and managing equipment introduction projects.
 
 **Key Responsibilities:**
 
-- **Calcium Ion Imaging:** Conducted research on A1 neurons of mice by performing calcium ion imaging using the Inscopix-nVoke system.
-- **Data Analysis:** Analyzed imaging data using Python to extract meaningful insights from neural activity patterns.
-- **Computational Modeling:** Developed computational models of the brain to predict neural pattern reactions using NEURON, NetPyne, and Python.
-- **Machine Learning:** Applied machine learning techniques to decode neural signals and enhance the understanding of neural computation.
-- **Single-Photon Neuron Imaging:** Utilized single-photon neuron imaging techniques to observe and analyze neural activity in real-time.
+- **Process Improvement:** Modified process piping and equipment by conducting root-cause analysis using process trend tracking and physical structure review.
+- **Design and Operations:** Established the design basis of biopharmaceutical processes and operating concepts in compliance with current Good Manufacturing Practices (cGMP).
+- **Project Management:** Acted as project manager for the introduction of new equipment into a plant, including engineering review, scheduling, and plant verification.
 
 **Skills Gained:**
 
-- **Advanced Imaging:** Gained proficiency in using the Inscopix-nVoke system for calcium ion imaging and single-photon neuron imaging.
-- **Python Programming:** Enhanced skills in Python for data analysis and computational modeling.
-- **Computational Neuroscience:** Developed expertise in computational neuroscience tools such as NEURON and NetPyne.
-- **Machine Learning:** Acquired experience in applying machine learning algorithms to decode neural activity.
-- **Neural Data Analysis:** Improved ability to analyze complex neural data and draw meaningful conclusions from experimental results.
+- **Root-Cause Analysis:** Developed strong analytical skills by identifying and resolving issues in process piping and equipment.
+- **Process Design:** Gained expertise in establishing design bases and operating concepts for biopharmaceutical processes in accordance with cGMP standards.
+- **Project Management:** Enhanced project management skills through leading equipment introduction projects, including engineering reviews, scheduling, and plant verification.
+- **Technical Proficiency:** Improved technical skills related to process engineering, equipment modification, and physical structure reviews.
+- **Regulatory Compliance:** Strengthened understanding of regulatory requirements and compliance standards in the biopharmaceutical industry.
 
-This experience has provided me with a strong foundation in both experimental and computational neuroscience, equipping me with the skills necessary to contribute to advanced research in brain and cognitive sciences.
 
 
