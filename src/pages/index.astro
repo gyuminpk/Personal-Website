@@ -6,7 +6,7 @@ import createSlug from "../lib/createSlug"
 
 const posts = (await getCollection("experience")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const last_posts = posts.slice(0, 3);
+const last_posts = posts.slice(-2, posts.length);
 ---
 
 <BaseLayout sideBarActiveItemID="home">
