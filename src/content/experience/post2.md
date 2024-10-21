@@ -33,9 +33,9 @@ tags: ["Neuroscience", "Research"]
 ### Research Internship Experience
 
 **Neurophysiology Lab, Seoul National University, Winter 2020**  
-**Supervisor: Professor Sang-Jung Kim**
+**Supervisor: Professor Sang-Jeong Kim**
 
-During my undergraduate internship at Professor Sang-Jung Kim's Neurophysiology Lab at Seoul National University, I engaged in advanced neurophysiological research using the UCLA Miniscope for single-photon imaging. This experience provided me with hands-on expertise in cutting-edge imaging technology and its application in neuroscience research.
+During my undergraduate internship at Professor Sang-Jeong Kim's Neurophysiology Lab at Seoul National University, I engaged in advanced neurophysiological research using the UCLA Miniscope V4 for single-photon imaging. This experience provided me with hands-on expertise in cutting-edge imaging technology and its application in neuroscience research.
 
 **Key Responsibilities:**
 

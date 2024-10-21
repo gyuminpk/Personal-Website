@@ -34,9 +34,9 @@ tags: ["Neuroscience", "Research"]
 ### Research Experience
 
 **Anatomy Lab, Korea University, 2014 - 2015**  
-**Supervisor: Professor Im-Joo Yoo**
+**Supervisor: Professor Im-Joo Rhyu**
 
-During my high school graduation research at Professor Im-Joo Yoo's Anatomy Lab at Korea University, I conducted research to observe neuronal plasticity changes in rats under reinforced learning environments. This project involved the use of various advanced techniques such as Golgi staining and the camera lucida method.
+During my high school graduation research at Professor Im-Joo Rhyu's Anatomy Lab at Korea University, I conducted research to observe neuronal plasticity changes in mice under reinforced learning environments. This project involved the use of various advanced techniques such as Golgi staining and the camera lucida method.
 
 **Key Responsibilities:**
 
